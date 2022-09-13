@@ -1,5 +1,5 @@
 # Thumbotron-API
-File modifications to turn your RP2040, 128*64 OLED, and other parts into your very own Thumbotron!  
+Thumby API file modifications to turn your RP2040, 128*64 OLED, and other parts into your very own Thumbotron!  
 Run Thumby games with a larger OLED display.
 
 ![Thumbotron in working order](docs/thumbotron.jpg)
